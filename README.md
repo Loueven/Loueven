@@ -1,6 +1,7 @@
 ### 
-- 💬 Développeuse Web
-- 🔭 Actuellement en alternance à la CPAM du CHER
+- 💬 Développeuse Web.
+- 🔭 Actuellement en alternance à la CPAM du CHER.
+- 🎓 Mastère Développement à Sup de Vinci (Rennes).
 
 
 <!--
