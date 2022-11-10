@@ -1,4 +1,3 @@
-### 
 - 🎂 21.
 - 💬 Développeuse Web.
 - 🔭 Alternance à la CPAM du CHER (Bourges).
